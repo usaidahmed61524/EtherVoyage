@@ -1,4 +1,3 @@
-"use client";
 import "./globals.css";
 import "bootstrap/dist/css/bootstrap.css";
 import { Inter } from "next/font/google";
